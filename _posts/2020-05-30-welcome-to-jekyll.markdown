@@ -1,29 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Dealing with Tear Gas"
 date:   2020-05-30 17:56:54 -0500
-categories: jekyll update
+categories: teargas protest
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+# Tear Gas
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## How to deal with it immediately
+1. Immediately move to fresh air
+  - Try to move to high ground.
+  - If the canister was deployed inside, exit the building, and vice versa.
+2. Flush your eyes with one of the following
+  - COLD water
+  - Milk (reportedly not as effective)
+  - Solution consisting of 3 teaspoons of Baking Soda, 8.5 ounces of water.
+    - 8.5 ounces is a bit more than this kind of Purell bottle: ![purell_bottle](https://mcdonaldpaper.com/media/catalog/product/cache/757ea7d2b7282843694bdb6de7a23598/p/u/purell8.jpg)
+3. 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## Sources
+- https://www.aftermath.com/content/tear-gas-exposure-treatment/
+- https://www.popsci.com/story/diy/tear-gas-guide/
