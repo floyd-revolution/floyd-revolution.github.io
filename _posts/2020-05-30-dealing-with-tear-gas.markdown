@@ -32,3 +32,4 @@ YOU SHOULD ONLY APPROACH A DEPLOYED CANISTER IF YOU HAVE SUFFICIENT FACE PROTECT
 - https://www.aftermath.com/content/tear-gas-exposure-treatment/
 - https://www.popsci.com/story/diy/tear-gas-guide/
 - https://www.youtube.com/watch?v=qw1NeQPqNW4
+- https://news.ycombinator.com/item?id=20873675
