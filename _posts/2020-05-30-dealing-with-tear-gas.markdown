@@ -4,9 +4,6 @@ title:  "Dealing with Tear Gas"
 date:   2020-05-30 17:56:54 -0500
 categories: teargas protest
 ---
-
-# Tear Gas
-
 ## How to deal with it immediately
 1. Move to fresh air
   - Try to move to high ground. Tear Gas settles to the ground after deployment
