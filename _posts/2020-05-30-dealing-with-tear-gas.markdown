@@ -19,9 +19,11 @@ categories: teargas protest
 
 ## Neutralize Deployed Canisters
 YOU SHOULD ONLY APPROACH A DEPLOYED CANISTER IF YOU HAVE SUFFICIENT FACE PROTECTION (GOGGLES, NOSE/MOUTH FILTER, GAS MASK)
+
 ### Traffic cone method
 1. Place a traffic cone over the deployed canister.
 2. Pour water into the top of the traffic cone to put out the canister. The canisters used by Hong Kong police have been noted to be unusually small. Expect to use mutliple bottles of water to put out larger canisters.
+
 ### Return to sender
 - To handle canisters, gloves MUST be worn or you may risk 2nd-degree burns.
 - Tennis rackets, hockey sticks, any long object can be used to hit canisters away from protestors.
