@@ -4,6 +4,7 @@ title:  "Donations and Phone Numbers"
 date:   2020-05-30 17:56:54 -0500
 categories: teargas protest
 ---
+{% include twitter.html %}
 
 # Phone numbers
 - National Lawyer's Guild: 212-679-5100
