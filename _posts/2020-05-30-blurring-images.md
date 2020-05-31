@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blurring videos and Images"
+title:  "Blurring Images"
 date:   2020-05-30 17:56:54 -0500
 categories: social-media blur
 ---
