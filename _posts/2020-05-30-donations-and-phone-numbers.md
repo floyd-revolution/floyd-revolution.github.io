@@ -6,7 +6,7 @@ categories: teargas protest
 ---
 
 # Phone numbers
-- National Lawyer's Guild: (212) 679-5100
+- National Lawyer's Guild: 212-679-5100
 
 ## Minneapolis
 - [George Floyd Memorial Fund - Philonise Floyd](https://www.gofundme.com/f/georgefloyd)
