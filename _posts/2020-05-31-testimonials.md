@@ -17,4 +17,4 @@ categories: testimonial protest
   - Q: Did you notice anything strange, like bricks on the sidewalks or potential undercover police?
     - A: I tried to keep my eyes out for undercover cops wearing arm bands but I didn't notice any. I only saw those in uniform. And I did not see anything strange besides that one individual and another black individual with a similar gun strapped around him that I saw walking back to my car.
   - Q: Do you feel like you brought awareness to your city?
- 
+    - A: Oh for sure. George was an active member of the Houston community and I'm so proud to have been able to participate in such an important and historical protest honoring not only George but many others who also were wrongfully murdered. I was also able to hear storeies of those in my community who have had their family members wrongfully killed by police officers without justice being served, so I think by participating in these protests those families who didn't have any publicity are now able to feel like people are listening to them and they are slowly but surely seeing some type of justice happen years later.
