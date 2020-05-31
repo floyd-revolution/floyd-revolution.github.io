@@ -4,6 +4,7 @@ title:  "Identifying undercover Police"
 date:   2020-05-31 09:49:54 -0500
 categories: cops protest
 ---
+{% include twitter.html %}
 
 # White armbands, "[Color of the day](https://simple.wikipedia.org/wiki/Color_of_the_day_(police)) Armbands"
 ![](https://pbs.twimg.com/media/EZOuUwWUYAAkoqm?format=jpg&amp;name=small)
