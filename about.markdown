@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-# About the site
+{% twitter.html %}
 This site was created to provide a central hub for all information that could be relevant to 2020 protestors. All are invited to collaborate. Please contact me [via email](mailto:charlesaverill20@gmail.com?subject=[GitHub]%20Contribute) or on [twitter](https://www.twitter.com/caverill_) if you'd like to contribute.
 
 # Site data
