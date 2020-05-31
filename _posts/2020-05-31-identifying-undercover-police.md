@@ -39,3 +39,4 @@ categories: cops protest
 - [@ZackBornstein](https://twitter.com/ZackBornstein)
 - [@Zekeys_Mom](https://twitter.com/Zekeys_Mom)
 - [WikiHow](https://www.wikihow.com/Spot-Undercover-Cops)
+- [Quora Testimonials](https://www.quora.com/What-are-some-ways-to-spot-undercover-cops-wearing-civilian-clothes-or-their-vehicles)
