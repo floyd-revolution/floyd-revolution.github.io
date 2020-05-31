@@ -1,4 +1,10 @@
-
+---
+layout: post
+title:  "Testimonials from Protestors"
+date:   2020-05-31 16:40:54 -0500
+categories: testimonial protest
+---
+{% includes twitter.html %}
 
 # Houston
 - Protestor A (18, White Hispanic, Female)
@@ -11,10 +17,4 @@
   - Q: Did you notice anything strange, like bricks on the sidewalks or potential undercover police?
     - A: I tried to keep my eyes out for undercover cops wearing arm bands but I didn't notice any. I only saw those in uniform. And I did not see anything strange besides that one individual and another black individual with a similar gun strapped around him that I saw walking back to my car.
   - Q: Do you feel like you brought awareness to your city?
-  
----
-layout: post
-title:  "Testimonials from Protestors"
-date:   2020-05-31 16:40:54 -0500
-categories: testimonial protest
----
+ 
