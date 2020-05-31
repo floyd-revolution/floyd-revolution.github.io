@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Knowing your Rights"
 2020-05-30 19:18:54 -0500
 categories: rights protests
