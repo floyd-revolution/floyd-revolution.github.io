@@ -7,6 +7,10 @@
   - Q: Did you ever feel threatened by the police or another group? Was there a police presence at all?
     - A: Yes there was a lot of police present. I noticed some officers inside of nearby businesses and even on the top of buildings with snipers. I personally never felt threatened, but I did [witness] some people yelling at them andd one woman flicking an officer off
   - Q: Were there any counter-protestors?
+    - A: I didn't witness any
+  - Q: Did you notice anything strange, like bricks on the sidewalks or potential undercover police?
+    - A: I tried to keep my eyes out for undercover cops wearing arm bands but I didn't notice any. I only saw those in uniform. And I did not see anything strange besides that one individual and another black individual with a similar gun strapped around him that I saw walking back to my car.
+  - Q: Do you feel like you brought awareness to your city?
   
 ---
 layout: post
