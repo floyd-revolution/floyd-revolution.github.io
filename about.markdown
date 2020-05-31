@@ -7,7 +7,7 @@ permalink: /about/
 This site was created to provide a central hub for all information that could be relevant to 2020 protestors. All are invited to collaborate. Please contact me [via email](mailto:charlesaverill20@gmail.com?subject=[GitHub]%20Contribute) or on [twitter](https://www.twitter.com/caverill_) if you'd like to contribute.
 
 # Site data
-This site is hosted with [GitHub Pages](https://pages.github.com/) and runs on [Jekyll](https://jekyllrb.com/). Neither of these organizations collects user data from the site.
+This site is hosted with [GitHub Pages](https://pages.github.com/) and runs on [Jekyll](https://jekyllrb.com/). Neither of these organizations collects user data from the site. All code for the site can be found [here](https://github.com/revolutiontips/revolutiontips.github.io/)
 
 I also have a Google Analytics plugin installed. The Analytics ID can be found in [the config file](_config.yml). I just like knowing how effective I am at spreading awareness of the site.
 
