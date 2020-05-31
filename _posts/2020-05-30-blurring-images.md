@@ -4,6 +4,7 @@ title:  "Blurring Images"
 date:   2020-05-30 17:56:54 -0500
 categories: social-media blur
 ---
+{% include twitter.html %}
 
 # Why
 Posting images of protests on social media is an effective way to raise awareness, not only of the protests but examples of police brutality as well. However, protestors have been identified by their appearances in pictures and [have been subsequently attacked or killed by opposition](https://www.chicagotribune.com/nation-world/ct-ferguson-activist-deaths-black-lives-matter-20190317-story.html). Blurring not only faces but also clothing and tattoos of protestors in your pictures is one way to spread awareness while protecting those in the photos.
