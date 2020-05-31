@@ -4,6 +4,7 @@ title:  "Petitions"
 date:   2020-05-31 11:19:54 -0500
 categories: petitions protest
 ---
+{% include twitter.html %}
 
 I'm looking into ways to sign all/most of these with just a few clicks. The change.org API is deprecated though, so I'm not sure if it's feasible.
 
