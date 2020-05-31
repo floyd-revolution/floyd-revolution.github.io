@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IF YOU HAVE ATTENDED A RECENT PROTEST"
-date:   2020-05-31 11:19:54 -0500
+date:   2020-05-31 14:10:54 -0500
 categories: testimonial protest
 ---
 {% include twitter.html %}
