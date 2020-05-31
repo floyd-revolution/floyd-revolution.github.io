@@ -24,6 +24,7 @@ I know I said no internet, but if you're in a bind and need to use the internet 
 - Click Resize, and resize the image by 1% and maintain the aspect ratio. 
 - Resize the selection again, but this time to 10,000%
 - This should pixelize the image sufficiently. Copy the selection and paste it back on top of the original image.
+
 ## Mac
 - Open your image in Preview
 - Select the faces, clothes, and tattoos of the protestor you'd like to blur
