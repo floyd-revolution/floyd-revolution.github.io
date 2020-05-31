@@ -13,4 +13,5 @@ The interviews can occur through phone calls, twitter DMs, emails, Skype, whatev
 Please contact me [via email](mailto:charlesaverill20@gmail.com?subject=[GitHub]%20Contribute) or on [twitter](https://www.twitter.com/caverill_) if you'd like to be interviewed.
 
 Thank you!
+
 Charles
