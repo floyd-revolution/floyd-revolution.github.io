@@ -4,6 +4,7 @@ title:  "Knowing your Rights"
 date:   2020-05-30 17:56:54 -0500
 categories: rights protest
 ---
+{% include twitter.html %}
 
 ## Your rights
 - Owners of private property can determine what speech is allowed on their property. Protesting in public areas such as streets, sidewalks, and parks is the safest option.
