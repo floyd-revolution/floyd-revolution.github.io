@@ -4,7 +4,6 @@ title:  "Testimonials from Protestors"
 date:   2020-05-31 16:40:54 -0500
 categories: testimonial protest
 ---
-{% includes twitter.html %}
 
 # Houston
 - Protestor A (18, White Hispanic, Female)
