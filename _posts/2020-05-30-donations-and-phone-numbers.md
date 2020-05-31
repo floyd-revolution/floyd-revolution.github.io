@@ -5,7 +5,8 @@ date:   2020-05-30 17:56:54 -0500
 categories: teargas protest
 ---
 {% include twitter.html %}
-test
+
+** If you do not see your city below, please check [here](https://docs.google.com/document/d/1X4-YS3vFn5CLL9QtJSU0xqmTh_h8XilXgOqGAjZISBI/preview?pru=AAABcpDUAcY*tK8ffSTHWdyeKm9e7JlQ2g)
 
 # Phone numbers
 - National Lawyer's Guild: 212-679-5100
