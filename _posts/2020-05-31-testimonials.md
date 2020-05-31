@@ -5,6 +5,8 @@ date:   2020-05-31 16:40:54 -0500
 categories: testimonial protest
 ---
 
+{% include twitter.html %}
+
 # Houston
 - Protestor A (18, White Hispanic, Female)
   - Q: Could you describe your experience at the protests?
