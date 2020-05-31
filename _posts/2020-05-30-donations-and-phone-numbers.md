@@ -28,18 +28,23 @@ categories: teargas protest
 ## Louisville
 - [Louisville community bail fund](https://actionnetwork.org/fundraising/louisville-community-bail-fund/)
   - Covering bail for protestors
+
 ## NYC
 - [Brooklyn Bail Fund](https://brooklynbailfund.org/donate)
   - Covering bail for protestors, pressuring for defunding police
+
 ## Atlanta
 - [Atlanta Solidarity Fund](https://actionnetwork.org/fundraising/support-justiceforgeorgefloyd-protesters-in-atlanta)
   - Covering bail for protestors
+
 ## Columbus
 - [Columbus Freedom Fund](https://www.paypal.me/columbusfreedomfund)
   - Covering bail for protestors
+
 ## Denver
 - [Colorado Freedom Fund](https://fundly.com/coloradofreedom?form=popup#)
   - Covering bail for protestors
+
 ## LA
 - [BLM LA](https://www.blmla.org/)
   - Rerout police funding to vulnerable communities
