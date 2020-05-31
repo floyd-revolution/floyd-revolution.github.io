@@ -26,7 +26,7 @@ YOU SHOULD ONLY APPROACH A DEPLOYED CANISTER IF YOU HAVE SUFFICIENT FACE PROTECT
 - Tennis rackets, hockey sticks, any long object can be used to hit canisters away from protestors.
 
 ## Sources
-- (https://www.aftermath.com/content/tear-gas-exposure-treatment/)
-- (https://www.popsci.com/story/diy/tear-gas-guide/)
-- (https://www.youtube.com/watch?v=qw1NeQPqNW4)
-- (https://news.ycombinator.com/item?id=20873675)
+- [Tear Gas Exposure Treatment](https://www.aftermath.com/content/tear-gas-exposure-treatment/)
+- [Tear Gas Guide](https://www.popsci.com/story/diy/tear-gas-guide/)
+- [Hong Kong Riots](https://www.youtube.com/watch?v=qw1NeQPqNW4)
+- [Neutralizing Tear Gas](https://news.ycombinator.com/item?id=20873675)
