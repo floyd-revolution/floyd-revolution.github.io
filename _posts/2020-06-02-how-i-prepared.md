@@ -18,6 +18,7 @@ categories: protest prepare
 - Cash and ID
 - Heat-resistant gloves
 - Extra face mask
+- Extra gray T-shirt
 - Bottled water
 - Towel
 - Duct tape
