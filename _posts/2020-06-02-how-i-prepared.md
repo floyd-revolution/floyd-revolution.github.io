@@ -10,7 +10,7 @@ categories: protest prepare
 - Light gray pants, no logo
 - Black belt
 - Light gray, long-sleeve shirt, no logo
-- Black running shoes, black socks
+- Black running shoes, gray socks
 - Black bandana around mouth
 
 ## My backpack & What's in it
