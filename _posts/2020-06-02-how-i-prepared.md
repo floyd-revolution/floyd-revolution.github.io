@@ -8,6 +8,7 @@ categories: protest prepare
 
 ## What I wore
 - Light gray pants, no logo
+- Black belt
 - Light gray, long-sleeve shirt, no logo
 - Black running shoes, black socks
 - Black bandana around mouth
@@ -22,3 +23,10 @@ categories: protest prepare
 - Duct tape
 - A cup and baking soda, and measuring spoon for teargas remedy
 - Phone with battery case. Face ID turned off. Long alphanumeric password generated.
+- Snacks (Raisins, trail mix, protein bars)
+
+## What I wish I had on hand
+- Safety goggles
+- Spray bottle
+- Gas mask
+- A zip-up hoodie with no logo
