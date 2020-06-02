@@ -12,7 +12,8 @@ categories: rights protest
 - Permits are not required to protest, given that you are not obstructing traffic. If obstructing traffic, police may move you to sidewalks to let others pass.
 
 ## Rights of Police to disperse protests
-- Police may not disperse protestors unless there is "clear and present danger of riot"
+- Police may not disperse protestors unless there is "clear and present danger of riot", disorders, interference with traffic, and threats to public safety.
+- Police may enforce curfews imposed by localy jurisdictions.
 - Police must issue clear and detailed notice of dispersal orders, and allow for sufficient time to vacate the area.
 
 ## ACLU Legal Observers
